@@ -1,0 +1,12 @@
+.DS_Store
+*.pyc
+*.pyd
+*.csv
+venv
+.idea
+*.bak
+*.db
+*.bak
+*.log
+videos
+Tex
